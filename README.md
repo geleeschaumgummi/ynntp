@@ -1,1 +1,1 @@
-# ynntp
+# Any/NNTP
